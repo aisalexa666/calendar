@@ -1,0 +1,44 @@
+#hallo{
+  position: absolute;
+  top: 2%;
+  left: 1%;
+}
+#location{
+  position: absolute;
+  top: 2%;
+  left: 15%;
+}
+.text{
+  font-size: 1.2em;
+}
+.month{
+  position: absolute;
+  top: 10%;
+  left: 10%;  
+}
+#calendar-object{
+  position: absolute;
+  top: 20%;
+  left: 30%;
+}
+.free{
+  background: #CCE;
+}
+.after{
+  color: #AAA;
+}
+.before{
+  color: #000;
+}
+.yes{
+  color: #C33;
+}
+.no-free{
+  background: #DDD
+}
+
+
+
+
+
+
